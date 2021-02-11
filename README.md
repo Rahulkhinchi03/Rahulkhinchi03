@@ -15,22 +15,19 @@
 
 - ⚡ My Fun fact is **I am a Coder and I don't drink Coffee.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.to rk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to rk7" height="30" width="40" /></a>
+<a href="https://dev.to/rk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to rk7" height="30" width="40" /></a>
 <a href="https://twitter.com/rahulkhinchi_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahulkhinchi_7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahul-khinchi-4364541b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-khinchi-4364541b6/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/14927620/rahul-khinchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/14927620/rahul-khinchi" height="30" width="40" /></a>
-<a href="https://fb.com/rahul khinchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahul khinchi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14927620/rahul-khinchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/14927620/rahul-khinchi" height="30" width="40" /></a>
+<a href="https://facebook.com/rahul.khinchi.52/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahul khinchi" height="30" width="40" /></a>
 <a href="https://instagram.com/rahul.khinchi_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul.khinchi_7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rahulkhinchirk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rahulkhinchirk7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahulkhinchirk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="rahulkhinchirk7" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@rahulkhinchirk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@rahulkhinchirk7" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/rahulkhinchirk7/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="user/rahulkhinchirk7/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rahulkhinchirk7/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="user/rahulkhinchirk7/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

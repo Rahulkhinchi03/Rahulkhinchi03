@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/rahul-khinchi-4364541b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-khinchi-4364541b6/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14927620/rahul-khinchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/14927620/rahul-khinchi" height="30" width="40" /></a>
 <a href="https://facebook.com/rahul.khinchi.52/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahul khinchi" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul.khinchi_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul.khinchi_7" height="30" width="40" /></a>
+<a href="https://instagram.com/rahhul.k7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahhul.k7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rahulkhinchirk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rahulkhinchirk7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahulkhinchirk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="rahulkhinchirk7" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@rahulkhinchirk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@rahulkhinchirk7" height="30" width="40" /></a>

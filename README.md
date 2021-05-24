@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Khinchi</h1>
-<h3 align="center">Code for a Cause!</h3>
+<h3 align="center">Code for  Cause!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkhinchi03&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkhinchi03" /> </p>
 

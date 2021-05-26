@@ -25,9 +25,7 @@
 
 - ⚡ Fun fact **I am a Night coder but I don't drink Coffee xd**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

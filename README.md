@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **Open source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rahulkhinchi03](https://github.com/Rahulkhinchi03)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Rahulkhinchi03)
 
-- 📝 I regularly write articles on [https://dev.to/rk7](https://dev.to/rk7)
+- 📝 I regularly write articles on [Blogs](https://dev.to/rk7)
 
 - 📫 You can reach me at **rahulkhinchirk7@gmail.com**
 

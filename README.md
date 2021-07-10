@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently contributing to **Checkstyles**
 
-- 🌱 I’m currently learning **Advance Data structures and Algorithms and Devops**
+- 🌱 I’m currently learning **Advance Data structures and Algorithms and Android Development**
 
 - 👯 I’m looking to collaborate on **Java projects**
 

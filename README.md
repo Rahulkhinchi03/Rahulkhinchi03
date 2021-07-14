@@ -21,7 +21,7 @@
 
 - 📫 You can reach me at **rahulkhinchirk7@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11ZrNZZ214_RTF52gky-yOn4v4nNjtUVx/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EnddCpvMhR4wOuM6Jt4kUBtQfagGd_sZ/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Night coder but I don't drink Coffee xd**
 

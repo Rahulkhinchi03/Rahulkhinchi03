@@ -46,6 +46,9 @@
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
   <a href="https://junit.org/junit5/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" alt="JUnit" width="40" height="40"/> </a> </p>
+  
+  ![github activity graph](https://activity-graph.herokuapp.com/graph?username=Rahulkhinchi03&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkhinchi03&show_icons=true&locale=en&layout=compact" alt="rahulkhinchi03" /></p>
 

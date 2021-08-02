@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Khinchi</h1>
 <h3 align="center">A passionate Java Programmer and DevOps Enthusiast.</h3>
 
-<a href="https://www.linkedin.com/in/Rahulkhinchi03/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/rahulkhinchi_7">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:rahulkhinchirk7@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="http://dev.to/rk7">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
 <br />
 
  ### About Me 🚀

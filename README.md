@@ -7,23 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/rahulkhinchi_7" target="blank"><img src="https://img.shields.io/twitter/follow/rahulkhinchi_7?logo=twitter&style=for-the-badge" alt="rahulkhinchi_7" /></a> </p>
 
-- 🔭 I’m currently contributing to **Checkstyles**
 
-- 🌱 I’m currently learning **Advance Data structures and Algorithms and Android Development**
+ About Me 🚀
+🎓 I’m a Sophomore pursuing my Bachelors in Computer Science & Engineering.
+👨‍💻 I am passionate about Azure, DevOps, Java and Android Development.
 
-- 👯 I’m looking to collaborate on **Java projects**
+- 🔭 I’m currently a contributor at **Checkstyle - Open Source**
 
-- 🤝 I’m looking for help with **Open source Projects**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Rahulkhinchi03)
-
-- 📝 I regularly write articles on [Blogs](https://dev.to/rk7)
+- 📝 I regularly write my personal blogs at [Blogs](https://dev.to/rk7)
 
 - 📫 You can reach me at **rahulkhinchirk7@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EnddCpvMhR4wOuM6Jt4kUBtQfagGd_sZ/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1EnddCpvMhR4wOuM6Jt4kUBtQfagGd_sZ/view?usp=sharing)
 
-- ⚡ Fun fact **I am a Night coder but I don't drink Coffee xd**
+- ⚡ **I am a Night coder but I don't drink Coffee xd**
 
 
 

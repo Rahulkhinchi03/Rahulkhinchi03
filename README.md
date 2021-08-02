@@ -34,10 +34,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rahulkhinchi_7" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-512.png" alt="rahulkhinchi_7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahulkhinchi03" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" alt="" height="30" width="40" /></a>
-<a href="https://fb.com/rahul.khinchi.52" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/glypho-social-and-other-logos/64/logo-facebook-512.png"alt="rahul.khinchi.52" height="30" width="40" /></a>
-<a href="https://instagram.com/rahhul.k7" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/87/87390.png" alt="rahhul.k7" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/Rahulkhinchi03/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/rahulkhinchi_7">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:rahulkhinchirk7@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="http://dev.to/rk7">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
 <a href="https://www.leetcode.com/rahulkhinchi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" alt="rahulkhinchi03" height="30" width="40" /></a>
 
 

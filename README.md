@@ -8,19 +8,19 @@
 <p align="left"> <a href="https://twitter.com/rahulkhinchi_7" target="blank"><img src="https://img.shields.io/twitter/follow/rahulkhinchi_7?logo=twitter&style=for-the-badge" alt="rahulkhinchi_7" /></a> </p>
 
 
- About Me 🚀
-🎓 I’m a Sophomore pursuing my Bachelors in Computer Science & Engineering.
-👨‍💻 I am passionate about Azure, DevOps, Java and Android Development.
+ ### About Me 🚀
+🎓 I’m a Sophomore pursuing my Bachelors in Computer Science & Engineering. </br>
+👨‍💻 I am passionate about Azure, DevOps, Java and Android Development. </br>
 
-- 🔭 I’m currently a contributor at **Checkstyle - Open Source**
+- 🔭 I’m currently a contributor at **Checkstyle - Open Source.**
 
-- 📝 I regularly write my personal blogs at [Blogs](https://dev.to/rk7)
+- 📝 I regularly write my personal blogs at [Blogs.](https://dev.to/rk7)
 
 - 📫 You can reach me at **rahulkhinchirk7@gmail.com**
 
-- 📄 [Resume](https://drive.google.com/file/d/1EnddCpvMhR4wOuM6Jt4kUBtQfagGd_sZ/view?usp=sharing)
+- 📄 [Resume.](https://drive.google.com/file/d/1EnddCpvMhR4wOuM6Jt4kUBtQfagGd_sZ/view?usp=sharing)
 
-- ⚡ **I am a Night coder but I don't drink Coffee xd**
+- ⚡ **I am a Night coder but I don't drink Coffee XD.**
 
 
 

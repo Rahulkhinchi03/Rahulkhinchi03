@@ -1,12 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rahul Khinchi</h1>
 <h3 align="center">A passionate Java Programmer and DevOps Enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkhinchi03&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkhinchi03" /> </p>
+<a href="https://www.linkedin.com/in/Rahulkhinchi03/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/rahulkhinchi_7">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:rahulkhinchirk7@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="http://dev.to/rk7">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkhinchi03" alt="rahulkhinchi03" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rahulkhinchi_7" target="blank"><img src="https://img.shields.io/twitter/follow/rahulkhinchi_7?logo=twitter&style=for-the-badge" alt="rahulkhinchi_7" /></a> </p>
-
+<br />
 
  ### About Me 🚀
 🎓 I’m a Sophomore pursuing my Bachelors in Computer Science & Engineering. </br>

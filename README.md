@@ -3,6 +3,8 @@
 
 <br />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulkhinchi03&label=Profile%20views&color=0e75b6&style=flat" alt="Rahulkhinchi03" /> </p>
+
  ### About Me 🚀
 🎓 I’m a Sophomore pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻 I am passionate about Azure, DevOps, Java and Android Development. </br>

@@ -7,7 +7,7 @@
 
  ### About Me 🚀
 🎓 I’m a Sophomore pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻 I am passionate about Azure, DevOps, Java and Android Development. </br>
+👨‍💻 I am passionate about Cloud, Java, Open-Source Contribution and Ds-Algo. </br>
 
 - 🔭 I’m currently a contributor at **Checkstyle - Open Source.**
 

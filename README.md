@@ -1,8 +1,5 @@
 ![Blue Gradient Programmer LinkedIn Banner (1)](https://user-images.githubusercontent.com/71710042/141320414-f914671f-7584-4db1-9c65-79b317912834.png)
 
-<h1 align="center">Hi 👋</h1>
-
-
 
 
 <br />

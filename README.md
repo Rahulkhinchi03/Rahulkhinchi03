@@ -10,13 +10,13 @@
 🎓 I’m a Sophomore pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻 I am passionate about Cloud, Java, Open-Source Contribution and Ds-Algo. </br>
 
-- 🔭 I’m currently a contributor at **Checkstyle - Open Source.**
+- 🔭 I’m currently a contributor at **Checkstyle**
 
-- 📝 I regularly write my personal blogs at [Blogs.](https://dev.to/rk7)
+- 📝 I regularly write my personal blogs at [Dev.to](https://dev.to/rk7)
 
 - 📫 You can reach me at **rahulkhinchirk7@gmail.com**
 
-- 📄 [Resume.](https://drive.google.com/file/d/1Hyc-2iqHVEqffoJfe0aCmUts5xbRX8KG/view?usp=sharing)
+- 📄 [Resume.](https://drive.google.com/file/d/1IOiXV4GVSEJfbsdwXRypaCW6OMh9Ay4K/view?usp=sharing)
 
 - ⚡ **I am a Night coder but I don't drink Coffee XD.**
 

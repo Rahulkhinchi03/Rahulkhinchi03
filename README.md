@@ -16,7 +16,7 @@
 
 - 📫 You can reach me at **rahulkhinchirk7@gmail.com**
 
-- 📄 [Resume.](https://drive.google.com/file/d/1SZr0-3nLocTI9-EqYjZIj09MZW2WPeJs/view?usp=sharing)
+- 📄 [LinkedIn](https://www.linkedin.com/in/rahulkhinchi03/)
 
 - ⚡ **I am a Night coder but I don't drink Coffee XD.**
 

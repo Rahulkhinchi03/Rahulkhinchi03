@@ -8,11 +8,11 @@
 
  ### About Me 🚀
 🎓 I’m a Sophomore pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻 I am passionate about Cloud, Java, Open-Source, DevOps and Ds-Algo. </br>
+👨‍💻 I am passionate about Cloud, Java, Open-Source, and DevOps. </br>
 
-- 🔭 I’m currently a contributor at **Checkstyle**
+- 🔭 Actively contributing to **Checkstyle**
 
-- 📝 I regularly write my personal blogs at [Dev.to](https://dev.to/rk7)
+- 📝 Checkout my blogs at [HERE](https://auth.geeksforgeeks.org/user/rahulkhinchi7/articles)
 
 - 📫 You can reach me at **rahulkhinchirk7@gmail.com**
 

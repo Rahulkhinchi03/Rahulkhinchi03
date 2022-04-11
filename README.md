@@ -19,7 +19,7 @@
 - 📄 [LinkedIn](https://www.linkedin.com/in/rahulkhinchi03/)
 
 - ⚡ **I am a Night coder but I don't drink Coffee XD.**
-
+- <a href="https://wakatime.com/@b1cb9d56-2108-4bbd-bded-de876edde70a"><img src="https://wakatime.com/badge/user/b1cb9d56-2108-4bbd-bded-de876edde70a.svg" alt="Total time coded since Mar 30 2022" /></a>
 
 
 <h3 align="left">Connect with me:</h3>

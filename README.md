@@ -21,6 +21,10 @@
 - ⚡ **I am a Night coder but I don't drink Coffee XD.**
 - <a href="https://wakatime.com/@b1cb9d56-2108-4bbd-bded-de876edde70a"><img src="https://wakatime.com/badge/user/b1cb9d56-2108-4bbd-bded-de876edde70a.svg" alt="Total time coded since Mar 30 2022" /></a>
 
+<br><br> Vibing to : 🎧  </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31x2xvdozdv3icjhbru5ufw3yupe) <br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

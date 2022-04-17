@@ -29,21 +29,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://www.linkedin.com/in/Rahulkhinchi03/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/rahulkhinchi_7">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:rahulkhinchirk7@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="http://dev.to/rk7">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
-<a href="https://www.leetcode.com/rahulkhinchi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" alt="rahulkhinchi03" height="30" width="40" /></a>
+ 
+  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/rahulkhinchi_7)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/Rahulkhinchi03/)  &nbsp; [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="3.5%"/>](http://dev.to/rk7)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/rahhul.ig/)  &nbsp; <a href="mailto:rahulkhinchirk7@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 
 <h3 align="left">Languages and Tools:</h3>

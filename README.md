@@ -1,4 +1,4 @@
-![Blue Gradient Programmer LinkedIn Banner (1)](https://user-images.githubusercontent.com/71710042/141320414-f914671f-7584-4db1-9c65-79b317912834.png)
+![Blue Gradient Programmer LinkedIn Banner (1)](https://user-images.githubusercontent.com/71710042/168163131-ff4a5151-5163-4aa5-8a83-0f059c32a627.png)
 
 
 
@@ -20,11 +20,8 @@
 
 
 
-
-
  ### Track My Open Source Contribution 🚀: [Here](https://github.com/checkstyle/checkstyle/pulls?q=is%3Amerged+is%3Apr+author%3ARahulkhinchi03+)
- 
- 
+
 
 
 

@@ -8,7 +8,7 @@
 
  ### About Me 🚀
 
-🎓 I’m a Rising Junior pursuing my bachelor's in Computer Science & Engineering. My aim is to become a T-Shaped Developer (Design, Develop, Build, Deploy) before I graduate. I am open to internships in the fields of Software Development Engineering, DevOps, DevRel, and Open Source Opportunities. I am leading technical communities like GitHub Campus Expert, Microsoft Learn Student Ambassadors, and Google Crowdsource Community.
+🎓 I’m a Rising Junior pursuing my bachelor's in Computer Science & Engineering. My aim is to become a T-Shaped Developer (Design, Develop, Test, Deploy) before I graduate. I am open to internships in the fields of Software Development Engineering, DevOps, DevRel, and Open Source Opportunities. I am leading technical communities like GitHub Campus Expert, Microsoft Learn Student Ambassadors, and Google Crowdsource Community.
 
 * 🌍  I'm based in Rajkot, India
 * ✉️  You can contact me at [rahulkhinchirk7@gmail.com](mailto:rahulkhinchirk7@gmail.com)

@@ -7,18 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulkhinchi03&label=Profile%20views&color=0e75b6&style=flat" alt="Rahulkhinchi03" /> </p>
 
  ### About Me 🚀
-🎓 I’m a Sophomore pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻 I am passionate about Cloud, Java, Open-Source, and DevOps. </br>
 
-- 🔭 Actively contributing to **Checkstyle**
+🎓 I’m a Rising Junior pursuing my bachelor's in Computer Science & Engineering. My aim is to become a T-Shaped Developer (Design, Develop, Build, Deploy) before I graduate. I am open to internships in the fields of Software Development Engineering, DevOps, DevRel, and Open Source Opportunities. I am leading technical communities like GitHub Campus Expert, Microsoft Learn Student Ambassadors, and Google Crowdsource Community.
 
-- 📝 Checkout my blogs at [HERE](https://auth.geeksforgeeks.org/user/rahulkhinchi7/articles)
-
-- 📫 You can reach me at **rahulkhinchirk7@gmail.com**
-
-- 📄 [LinkedIn](https://www.linkedin.com/in/rahulkhinchi03/)
-
-- ⚡ **I am a Night coder but I don't drink Coffee XD.**
+* 🌍  I'm based in Rajkot, India
+* ✉️  You can contact me at [rahulkhinchirk7@gmail.com](mailto:rahulkhinchirk7@gmail.com)
+* 🚀  I'm currently working on [Checkstyle Open Source](http://github.com/checkstyle/checkstyle)
+* 🧠  I'm learning Java, Devops Tools, Cloud and Shell Scripting
+* 🤝  I'm open to collaborating on Java and Open Source Projects
+* ⚡  Other than Tech, I am a former Athletics and Football Player and I love to listen LOFI MUSIC
 - <a href="https://wakatime.com/@b1cb9d56-2108-4bbd-bded-de876edde70a"><img src="https://wakatime.com/badge/user/b1cb9d56-2108-4bbd-bded-de876edde70a.svg" alt="Total time coded since Mar 30 2022" /></a>
 
 
@@ -35,7 +32,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/rahulkhinchi_7)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/Rahulkhinchi03/)  &nbsp; [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="3.5%"/>](http://dev.to/rk7)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/rahhul.ig/)  &nbsp; <a href="mailto:rahulkhinchirk7@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+<p align="left"> <a href="https://www.dev.to/rk7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
+ <a href="http://www.instagram.com/rahhul.ig/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+ <a href="https://www.linkedin.com/in/rahulkhinchi03/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+ <a href="https://www.twitter.com/rahulkhinchi_7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
  
 
 <h3 align = "left"> Github Stat's: <h3>

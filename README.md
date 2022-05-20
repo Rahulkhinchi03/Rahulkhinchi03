@@ -12,7 +12,7 @@
 
 * 🌍  I'm based in Rajkot, India
 * ✉️  You can contact me at [rahulkhinchirk7@gmail.com](mailto:rahulkhinchirk7@gmail.com)
-* 🚀  I'm currently a Google Summer of Code 2022 Stundet at [Checkstyle](http://github.com/checkstyle/checkstyle)
+* 🚀  I'm currently a Google Summer of Code 2022 Student at [Checkstyle](http://github.com/checkstyle/checkstyle)
 * 🧠  I'm learning Java, Devops Tools, Cloud and Shell Scripting
 * 🤝  I'm open to collaborating on Java and Open Source Projects
 * ⚡  Other than Tech, I am a former Athletics and Football Player and I love to listen LOFI MUSIC

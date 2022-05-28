@@ -13,7 +13,7 @@
 * 🌍  I'm based in Rajkot, India
 * ✉️  You can contact me at [rahulkhinchirk7@gmail.com](mailto:rahulkhinchirk7@gmail.com)
 * 🚀  I'm currently a Google Summer of Code 2022 Student at [Checkstyle](http://github.com/checkstyle/checkstyle)
-* 🧠  I'm learning Java, Devops, Cloud, Blockchain and GO
+* 🧠  I'm learning Java, Devops, Blockchain, GO and Javascript
 * 🤝  I'm open to collaborating on Java and Open Source Projects
 * ⚡  Other than Tech, I am a former Athletics and Football Player and I love to listen LOFI MUSIC
 - <a href="https://wakatime.com/@b1cb9d56-2108-4bbd-bded-de876edde70a"><img src="https://wakatime.com/badge/user/b1cb9d56-2108-4bbd-bded-de876edde70a.svg" alt="Total time coded since Mar 30 2022" /></a>

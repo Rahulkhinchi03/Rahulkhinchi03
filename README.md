@@ -35,6 +35,7 @@
  
  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
  
+ 
 
 <h3 align = "left"> Github Stat's: <h3>
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rahulkhinchi03&show_icons=true&theme=tokyonight" />

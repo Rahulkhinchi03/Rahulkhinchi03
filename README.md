@@ -13,6 +13,7 @@
 * 🌍  I'm based in Rajkot, India
 * ✉️  You can contact me at [rahulkhinchirk7@gmail.com](mailto:rahulkhinchirk7@gmail.com) or [Link](https://linktr.ee/rahhul.k7 ) 
 * 🚀  I'm currently a Google Summer of Code 2022 Student at [Checkstyle](http://github.com/checkstyle/checkstyle)
+* 💡  Do you want to kickstart your open source journey? [Join my initiative!](https://linktr.ee/decodecafe)
 * 🧠  I'm learning Java, Devops, Blockchain, GO and Javascript
 * 🤝  I'm open to collaborating on Java and Open Source Projects
 * ⚡  Other than Tech, I am a former Athletics and Football Player and I love to listen LOFI MUSIC
@@ -30,11 +31,8 @@
  <a href="http://www.instagram.com/rahhul.ig/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
  <a href="https://www.linkedin.com/in/rahulkhinchi03/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
  <a href="https://www.twitter.com/rahulkhinchi_7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
- 
- 
- <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
- 
- 
+
+
 
 <h3 align = "left"> Github Stat's: <h3>
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rahulkhinchi03&show_icons=true&theme=tokyonight" />

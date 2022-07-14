@@ -11,7 +11,7 @@
 🎓 I’m a Rising Junior pursuing my bachelor's in Computer Science & Engineering. My aim is to become a T-Shaped Developer (Design, Develop, Test, Deploy) before I graduate. I am open to internships in the fields of Software Development Engineering, DevOps, DevRel, and Open Source Opportunities. I am leading technical communities like GitHub Campus Expert, Microsoft Learn Student Ambassadors, and Google Developers Student Club.
 
 * 🌍  I'm based in Rajkot, India
-* ✉️  You can contact me at [rahulkhinchirk7@gmail.com](mailto:rahulkhinchirk7@gmail.com)
+* ✉️  You can contact me at [rahulkhinchirk7@gmail.com](mailto:rahulkhinchirk7@gmail.com) or [Link](https://linktr.ee/rahhul.k7 ) 
 * 🚀  I'm currently a Google Summer of Code 2022 Student at [Checkstyle](http://github.com/checkstyle/checkstyle)
 * 🧠  I'm learning Java, Devops, Blockchain, GO and Javascript
 * 🤝  I'm open to collaborating on Java and Open Source Projects
@@ -26,7 +26,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- 
 <p align="left"> <a href="https://www.dev.to/rk7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
  <a href="http://www.instagram.com/rahhul.ig/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
  <a href="https://www.linkedin.com/in/rahulkhinchi03/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 

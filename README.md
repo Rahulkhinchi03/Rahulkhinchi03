@@ -22,6 +22,11 @@
 
 
  ### Track My Open Source Contribution 🚀: [Here](https://github.com/checkstyle/checkstyle/pulls?q=is%3Amerged+is%3Apr+author%3ARahulkhinchi03+)
+ 
+ ### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 

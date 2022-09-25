@@ -23,18 +23,6 @@
 
 
  ### Track My Open Source Contribution 🚀: [Here](https://github.com/checkstyle/checkstyle/pulls?q=is%3Amerged+is%3Apr+author%3ARahulkhinchi03+)
- 
- ### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#651](https://github.com/checkstyle/contribution/pull/651) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
-2. ❌ Closed PR [#653](https://github.com/checkstyle/contribution/pull/653) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
-3. ❌ Closed PR [#12174](https://github.com/checkstyle/checkstyle/pull/12174) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. ❌ Closed PR [#656](https://github.com/checkstyle/contribution/pull/656) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
-5. 🗣 Commented on [#656](https://github.com/checkstyle/contribution/issues/656) in [checkstyle/contribution](https://github.com/checkstyle/contribution)
-<!--END_SECTION:activity-->
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

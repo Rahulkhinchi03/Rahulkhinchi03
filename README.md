@@ -8,7 +8,7 @@
 
  ### About Me 🚀
 
-🎓 I’m a Rising Junior pursuing my bachelor's in Computer Science & Engineering. My aim is to become a T-Shaped Developer (Design, Develop, Test, Deploy) before I graduate. I am open to internships in the fields of Software Development Engineering, DevOps, DevRel, and Open Source Opportunities. I am leading technical communities like GitHub Campus Expert, Microsoft Learn Student Ambassadors, and Google Developers Student Club.
+🎓 I’m a Rising Junior pursuing my bachelor's in Computer Science & Engineering. My aim is to become a T-Shaped Developer (Design, Develop, Test, Deploy) before I graduate. I am open to internships in the fields of Software Development Engineering, DevOps, DevRel, and Open Source Opportunities. I am leading technical communities like [GitHub Campus Expert](https://githubcampus.expert/Rahulkhinchi03/), [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/00230511-e3b0-41c1-9451-cecaa9aca0ee), and [Google Developers Student Club](https://gdsc.community.dev/u/m7m5xe/).
 
 * 👨‍🦰  I'm 20 🎉
 * 🌍  I'm based in Rajkot, India

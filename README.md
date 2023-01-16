@@ -8,7 +8,7 @@
 
  ### About Me 🚀
 
-🎓 I’m a Rising Junior pursuing my bachelor's in Computer Science & Engineering. My aim is to become a T-Shaped Developer (Design, Develop, Test, Deploy) before I graduate. I am open to internships in the fields of Software Development Engineering, DevOps, DevRel, and Open Source Opportunities.
+🎓 I’m a Rising Junior pursuing my bachelor's in Computer Science & Engineering. My aim is to become a T-Shaped Developer (Design, Develop, Test, Deploy) before I graduate. I am open to internships/job in the fields of Software Development Engineering, DevOps, DevRel, and Open Source Opportunities.
 
 * 👨‍🦰  I'm 20 🎉
 * 🌍  I'm based in Rajkot, India

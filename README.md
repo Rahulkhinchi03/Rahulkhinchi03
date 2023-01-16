@@ -8,21 +8,35 @@
 
  ### About Me 🚀
 
-🎓 I’m a Rising Junior pursuing my bachelor's in Computer Science & Engineering. My aim is to become a T-Shaped Developer (Design, Develop, Test, Deploy) before I graduate. I am open to internships in the fields of Software Development Engineering, DevOps, DevRel, and Open Source Opportunities. I am leading technical communities like [GitHub Campus Expert](https://githubcampus.expert/Rahulkhinchi03/), [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/00230511-e3b0-41c1-9451-cecaa9aca0ee), and [Google Developers Student Club](https://gdsc.community.dev/u/m7m5xe/).
+🎓 I’m a Rising Junior pursuing my bachelor's in Computer Science & Engineering. My aim is to become a T-Shaped Developer (Design, Develop, Test, Deploy) before I graduate. I am open to internships in the fields of Software Development Engineering, DevOps, DevRel, and Open Source Opportunities.
 
 * 👨‍🦰  I'm 20 🎉
 * 🌍  I'm based in Rajkot, India
-* ✉️  You can contact me at [rahulkhinchirk7@gmail.com](mailto:rahulkhinchirk7@gmail.com) or [Link](https://linktr.ee/rahhul.k7 ) 
-* 🚀  I'm currently a Google Summer of Code 2022 Student at [Checkstyle](http://github.com/checkstyle/checkstyle)
+* ✉️  You can contact me at [rahulkhinchirk7@gmail.com](mailto:rahulkhinchirk7@gmail.com) or [Link](https://linktr.ee/rahhul.k7) 
+* 🚀  I was a Google Summer of Code 2022 Student at [Checkstyle](http://github.com/checkstyle/checkstyle)
 * 💡  Do you want to kickstart your open source journey? [Join my initiative!](https://linktr.ee/decodecafe)
-* 🧠  I'm learning DevOps tools and DevRel.
-* 🤝  I'm open to collaborating on Java and Open Source Projects
-* ⚡  Other than Tech, I am a former Athletics and Football Player and I love to listen LOFI MUSIC
+* ⚡  When I'm not coding or organizing events, I am a huge CR7 fanatic. I believe that the discipline and hard work required to excel in sports can be applied to one's professional life as well. I was a state-level athlete during my school years and ran 100 meters in 11.27 seconds.
 - <a href="https://wakatime.com/@b1cb9d56-2108-4bbd-bded-de876edde70a"><img src="https://wakatime.com/badge/user/b1cb9d56-2108-4bbd-bded-de876edde70a.svg" alt="Total time coded since Mar 30 2022" /></a>
 
+ ### My Skills 💻
+
+- **Language:** Java, Go and Python.
+- **DevOps:** Linux, YAML, GitHub Actions & API, Shell Scripting, CI, Docker, Kubernates, Terraform, Ansible, Jenkins.
+- **Cloud:** Azure & GCP
+- **Database:** MySQL.
+- **Web Development:** HTML and CSS.
+- **Tools:** Checkstyle, Maven and Dialogflow. 
+- **Others:** Troubleshooting, Googling, Documentation and Technical Writing, Poster Designing, Community Management.
+
+### Community Profiles 🚩
+- [GitHub Campus Expert](https://githubcampus.expert/Rahulkhinchi03/)
+- [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/00230511-e3b0-41c1-9451-cecaa9aca0ee)
+- [Google Developers Student Club](https://gdsc.community.dev/u/m7m5xe/)
 
 
- ### Track My Open Source Contribution 🚀: [Here](https://github.com/checkstyle/checkstyle/pulls?q=is%3Amerged+is%3Apr+author%3ARahulkhinchi03+)
+ ### Track My Open Source Contribution 🚀: 
+ - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle/pulls?q=is%3Amerged+is%3Apr+author%3ARahulkhinchi03+)
+ - [checkstyle/contribution](https://github.com/checkstyle/contribution/pulls?q=is%3Amerged+is%3Apr+author%3ARahulkhinchi03+)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

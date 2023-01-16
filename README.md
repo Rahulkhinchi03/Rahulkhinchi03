@@ -38,6 +38,13 @@
  - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle/pulls?q=is%3Amerged+is%3Apr+author%3ARahulkhinchi03+)
  - [checkstyle/contribution](https://github.com/checkstyle/contribution/pulls?q=is%3Amerged+is%3Apr+author%3ARahulkhinchi03+)
 
+### Watch my latest podcast at:
+[![Contributing to IHR](https://img.youtube.com/vi/30rU1qqUjAY/0.jpg)](https://www.youtube.com/watch?v=30rU1qqUjAY)
+[![Contributing to GNOME](https://img.youtube.com/vi/8eD5l76k1II/0.jpg)](https://www.youtube.com/watch?v=8eD5l76k1II)
+[![Github Watch Party And Introduction to Codespaces](https://img.youtube.com/vi/dvoxN4hJyWE/0.jpg)](https://www.youtube.com/watch?v=dvoxN4hJyWE)
+[![Roadmap to GSOC'23 with Rahul Khinchi ](https://img.youtube.com/vi/O3Rjfkiu8hw/0.jpg)](https://www.youtube.com/watch?v=O3Rjfkiu8hw)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left"> <a href="https://www.dev.to/rk7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>

@@ -8,7 +8,7 @@
 
  ### About Me 🚀
 
-🎓 I’m a Junior pursuing my bachelor's in Computer Science & Engineering. My aim is to become a T-Shaped Developer (Design, Develop, Test, Deploy) before I graduate (April 2024). I am a Developer Advocate Intern at Onboardbase.
+🎓 I’m a Junior pursuing my bachelor's in Computer Science & Engineering. My aim is to become a T-Shaped Developer (Design, Develop, Test, Deploy) before I graduate (April 2024). I am currently a Developer Advocate Intern at Onboardbase (Since March 2023).
 
 * 👨‍🦰  I'm 20 🎉
 * 🌍  I'm based in Rajkot, India

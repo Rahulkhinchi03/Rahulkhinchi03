@@ -38,6 +38,11 @@
  - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle/pulls?q=is%3Amerged+is%3Apr+author%3ARahulkhinchi03+)
  - [checkstyle/contribution](https://github.com/checkstyle/contribution/pulls?q=is%3Amerged+is%3Apr+author%3ARahulkhinchi03+)
 
+### Technical Writing Profiles 📃
+ - [Hashnode](https://hashnode.com/@rahulk7)
+ - [GFG](https://auth.geeksforgeeks.org/user/rahulkhinchi7/articles)
+ - [Dev.to](https://dev.to/rk7)
+
 ### Watch my latest podcast at:
 [![Google Summer of Code](https://user-images.githubusercontent.com/71710042/226113213-b892ad05-93f8-44b8-84d8-505550ed6d6c.jpeg)](https://www.youtube.com/live/vcN6oNzUh38?feature=share)
 [![Contributing to IHR](https://img.youtube.com/vi/30rU1qqUjAY/0.jpg)](https://www.youtube.com/watch?v=30rU1qqUjAY)

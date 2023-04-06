@@ -64,6 +64,3 @@
 <h3 align = "left"> Github Stat's: <h3>
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rahulkhinchi03&show_icons=true&theme=tokyonight" />
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulkhinchi03&theme=tokyonight" />
-<!--  <img width = "97%" src = "https://activity-graph.herokuapp.com/graph?username=Rahulkhinchi03&theme=github" /> -->
- <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img width = "97%" alt="Rahul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rahulkhinchi03&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
- 

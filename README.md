@@ -18,6 +18,11 @@
 * ⚡  When I'm not coding or organizing events, I am a huge CR7 fanatic. I believe that the discipline and hard work required to excel in sports can be applied to one's professional life as well. I was a state-level athlete during my school years and ran 100 meters in 11.27 seconds.
 - <a href="https://wakatime.com/@b1cb9d56-2108-4bbd-bded-de876edde70a"><img src="https://wakatime.com/badge/user/b1cb9d56-2108-4bbd-bded-de876edde70a.svg" alt="Total time coded since Mar 30 2022" /></a>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulkhinchi03/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rahhulk7) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahhul.ig) 
+
  ### My Skills 💻
 
 - **Language:** Java, Go and Python.
@@ -53,13 +58,6 @@
 [![Github Watch Party And Introduction to Codespaces](https://img.youtube.com/vi/dvoxN4hJyWE/0.jpg)](https://www.youtube.com/watch?v=dvoxN4hJyWE)
 [![Roadmap to GSOC'23 with Rahul Khinchi ](https://img.youtube.com/vi/O3Rjfkiu8hw/0.jpg)](https://www.youtube.com/watch?v=O3Rjfkiu8hw)
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<p align="left"> <a href="https://www.dev.to/rk7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
- <a href="https://www.linkedin.com/in/rahulkhinchi03/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
- <a href="https://www.twitter.com/rahulkhinchi_7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 

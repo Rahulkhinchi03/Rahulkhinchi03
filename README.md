@@ -1,4 +1,4 @@
-![Blue Gradient Programmer LinkedIn Banner (1)](https://user-images.githubusercontent.com/71710042/168163131-ff4a5151-5163-4aa5-8a83-0f059c32a627.png)
+![Black White Modern Data Analyst LinkedIn Banner (1)](https://user-images.githubusercontent.com/71710042/230340106-ee108079-b4f7-4c45-9516-bf982e953f90.png)
 
 
 
@@ -8,7 +8,7 @@
 
  ### About Me 🚀
 
-🎓 I’m a Junior pursuing my bachelor's in Computer Science & Engineering. My aim is to become a T-Shaped Developer (Design, Develop, Test, Deploy) before I graduate (April 2024). I am currently a Developer Advocate Intern at Onboardbase (Since March 2023).
+🎓 I’m a Junior pursuing my bachelor's in Computer Science & Engineering. My aim is to become a T-Shaped Developer (Design, Develop, Test, Deploy) before I graduate (April 2024). I am currently a Developer Advocate Intern at Onboardbase.
 
 * 👨‍🦰  I'm 20 🎉
 * 🌍  I'm based in Rajkot, India
@@ -42,6 +42,9 @@
  - [Hashnode](https://hashnode.com/@rahulk7)
  - [GFG](https://auth.geeksforgeeks.org/user/rahulkhinchi7/articles)
  - [Dev.to](https://dev.to/rk7)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=rahhulk7)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### Watch my latest podcast at:
 [![Google Summer of Code](https://user-images.githubusercontent.com/71710042/226113213-b892ad05-93f8-44b8-84d8-505550ed6d6c.jpeg)](https://www.youtube.com/live/vcN6oNzUh38?feature=share)

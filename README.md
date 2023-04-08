@@ -8,7 +8,7 @@
 
  ### About Me 🚀
 
-🎓 I’m a Junior pursuing my bachelor's in Computer Science & Engineering. My aim is to become a T-Shaped Developer (Design, Develop, Test, Deploy) before I graduate (April 2024). I am currently a Developer Advocate Intern at Onboardbase (March 2023)
+🎓 Hi there! I'm Rahul Khinchi, a Computer Science and Engineering junior with a passion for coding and technology. As a Developer Advocate Intern at Onboardbase (March 2023), I'm honing my skills in the industry while also pursuing my passion projects. I'm a GitHub Campus Expert and have held leadership roles as a Beta Microsoft Learn Student Ambassador and Google Developer Students Club Lead. I've gained valuable industry experience through internships and freelancing, such as my role as a Technical Writing Intern at GeeksForGeeks and as a mentor at ConnectBud. I've also spoken at over 15+ technical events, covering essential topics such as Git and GitHub, Open Source, and Introduction to Codespaces.
 
 * 👨‍🦰  I'm 20 🎉
 * 🌍  I'm based in Rajkot, India

@@ -8,9 +8,9 @@
 
  ### About Me 🚀
 
-🎓 Hi there! I'm Rahul Khinchi, a Computer Science and Engineering junior. As an [Onboardbase](https://onboardbase.com/) Developer Advocate Intern, I am sharpening my skills in the industry while pursuing my passion projects. I was selected as a Google Summer of Code Mentee in 2022, where I automated the release process of [Checkstyle](https://checkstyle.org/), gaining valuable experience in open-source development and collaboration. I have also worked as a Contract Based DevRel at [Pynt.io](https://www.pynt.io/) for India Region.
+🎓 Hi there! I'm Rahul Khinchi, a Computer Science and Engineering junior. As an [Onboardbase](https://onboardbase.com/) Developer Advocate Intern, I am sharpening my skills in the industry while pursuing my passion projects. I was selected as a Google Summer of Code Mentee in 2022, where I automated the release process of [Checkstyle](https://checkstyle.org/), gaining valuable experience in open-source development and collaboration.In addition, I work as a Contract Based DevRel at [Pynt.io](https://www.pynt.io/) for India Region and a part-time developer advocate at [Syncloop](https://www.syncloop.com/).
 
-I am a founder of the DeCodeCafe Community and a GitHub Campus Expert. I have held leadership roles as a Beta Microsoft Learn Student Ambassador and Google Developer Students Club Lead. In addition, I work as a Contract based DevRel at Pynt for India Region and a part-time developer advocate at Syncloop.
+I am a founder of the DeCodeCafe Community and a GitHub Campus Expert. I have held leadership roles as a Beta Microsoft Learn Student Ambassador and Google Developer Students Club Lead.
 
 My industry experience includes internships and freelancing as a Technical Writing Intern at GeeksForGeeks and as a mentor at ConnectBud. I have spoken at over 15+ technical events, covering essential topics such as Git and GitHub, Open Source, and Introduction to Codespaces. Recently, I organized GDSC WoW for Gujarat Region in Ahmedabad where 750+ attendees were there, and I gave a talk on "Shift left approach to API Security Testing with Pynt".
 

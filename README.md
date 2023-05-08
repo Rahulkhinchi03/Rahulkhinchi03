@@ -49,7 +49,8 @@
  - [GFG](https://auth.geeksforgeeks.org/user/rahulkhinchi7/articles)
  - [Dev.to](https://dev.to/rk7)
 
-[![](https://user-images.githubusercontent.com/71710042/236920566-01703572-7aa4-4835-a972-e229194f10a9.jpg)](https://onboardbase.com/blog/future-secret-management/)
+[![](https://user-images.githubusercontent.com/71710042/236921173-7e62a2b2-e34e-4157-b847-b58890af9d04.png)](https://onboardbase.com/blog/future-secret-management/)
+
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=rahhulk7)](https://github.com/VishwaGauravIn/github-twitter-card-embed)

@@ -8,7 +8,7 @@
 
  ### About Me 🚀
 
-🎓 Hi there! I'm Rahul Khinchi, a Computer Science and Engineering junior. As an [Onboardbase](https://onboardbase.com/) Developer Advocate Intern, I am sharpening my skills in the industry while pursuing my passion projects. I was selected as a Google Summer of Code Mentee in 2022, where I automated the release process of [Checkstyle](https://checkstyle.org/), gaining valuable experience in open-source development and collaboration.In addition, I work as a Contract Based DevRel at [Pynt.io](https://www.pynt.io/) for India Region and a part-time developer advocate at [Syncloop](https://www.syncloop.com/).
+🎓 Hi there! I'm Rahul Khinchi, a Computer Science and Engineering junior. As an [Onboardbase](https://onboardbase.com/) Developer Advocate Intern and a part-time developer advocate at [Syncloop](https://www.syncloop.com/)., I am sharpening my skills in the industry while pursuing my passion projects. I was selected as a Google Summer of Code Mentee in 2022, where I automated the release process of [Checkstyle](https://checkstyle.org/), gaining valuable experience in open-source development and collaboration. In addition, I worked as a Contract Based DevRel at [Pynt.io](https://www.pynt.io/) for India Region.
 
 I am a founder of the DeCodeCafe Community and a GitHub Campus Expert. I have held leadership roles as a Beta Microsoft Learn Student Ambassador and Google Developer Students Club Lead.
 

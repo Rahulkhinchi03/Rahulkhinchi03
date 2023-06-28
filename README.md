@@ -21,10 +21,7 @@ In my free time, I draw inspiration from sports, notably CR7, recognizing the pa
 * 👨‍🦰  I'm 20 🎉
 * 🌍  I'm based in Rajkot, India
 * ✉️  You can contact me at [rahulkhinchirk7@gmail.com](mailto:rahulkhinchirk7@gmail.com) or [Link](https://linktr.ee/rahhul.k7) 
-* 🚀  I was a Google Summer of Code 2022 Student at [Checkstyle](http://github.com/checkstyle/checkstyle)
-* 💡 I am a Founder of DeCodeCafe Community. [Join the community!](https://linktr.ee/decodecafe)
 * 📍 I am a public speaker 🗣️, technical writer 📃, poster designer 📟, community manager 👥, event manager 🤝 and traveller 🧳.
-* ⚡  When I'm not coding or organizing events, I am a huge CR7 fanatic. I believe that the discipline and hard work required to excel in sports can be applied to one's professional life as well. I was a state-level footballer during my school years and ran 100 meters in 11.27 seconds.
 - <a href="https://wakatime.com/@b1cb9d56-2108-4bbd-bded-de876edde70a"><img src="https://wakatime.com/badge/user/b1cb9d56-2108-4bbd-bded-de876edde70a.svg" alt="Total time coded since Mar 30 2022" /></a>
 
 ## 🌐 Socials:

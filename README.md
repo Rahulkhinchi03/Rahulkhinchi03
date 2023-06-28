@@ -8,11 +8,15 @@
 
  ### About Me 🚀
 
-🎓 Hi there! I'm Rahul Khinchi, a Computer Science and Engineering junior. As an [Onboardbase](https://onboardbase.com/) Developer Advocate Intern and a part-time developer advocate at [Syncloop](https://www.syncloop.com/)., I am sharpening my skills in the industry while pursuing my passion projects. I was selected as a Google Summer of Code Mentee in 2022, where I automated the release process of [Checkstyle](https://checkstyle.org/), gaining valuable experience in open-source development and collaboration. In addition, I worked as a Contract Based DevRel at [Pynt.io](https://www.pynt.io/) for India Region.
+Hi there! I'm Rahul Khinchi, a Computer Science and Engineering junior with a passion for DevOps, APIs, and Community Management. I have a strong background in open-source development and collaboration, gained through my experience as a Google Summer of Code Mentee automating the release process of [Checkstyle](https://checkstyle.org/).
 
-I am a founder of the DeCodeCafe Community and a GitHub Campus Expert. I have held leadership roles as a Beta Microsoft Learn Student Ambassador and Google Developer Students Club Lead.
+As a Developer Advocate at [Syncloop](https://www.syncloop.com/), I excel in promoting and supporting developer communities. Previously, I served as a Contract Based DevRel at [Pynt.io](https://www.pynt.io/) for the India Region and worked as a Developer Advocate Intern at [Onboardbase](https://onboardbase.com/).
 
-My industry experience includes internships and freelancing as a Technical Writing Intern at GeeksForGeeks and as a mentor at ConnectBud. I have spoken at over 15+ technical events, covering essential topics such as Git and GitHub, Open Source, and Introduction to Codespaces. Recently, I organized GDSC WoW for Gujarat Region in Ahmedabad where 750+ attendees were there, and I gave a talk on "Shift left approach to API Security Testing with Pynt".
+I'm proudly building the DeCodeCafe Community and a GitHub Campus Expert, where I actively foster collaboration and knowledge sharing. In leadership roles as a Beta Microsoft Learn Student Ambassador and Google Developer Students Club Lead, I've driven impactful initiatives and engaged with diverse technical audiences.
+
+With industry experience as a Technical Writing Intern at GeeksForGeeks and a mentor at ConnectBud, I possess a strong foundation in effective communication and mentorship. I have delivered over 20 technical talks on topics such as API Security, API Development, Git and GitHub, Open Source, Introduction to Codespaces, and Checkstyle. I organized GDSC WoW for Gujarat Region in Ahmedabad, attracting 750+ attendees and delivering a talk on "Shift left approach to API Security Testing with Pynt".
+
+In my free time, I draw inspiration from sports, notably CR7, recognizing the parallels between discipline and hard work in athletics and professional life. As a former state-level athlete, I achieved a remarkable 11.27-second timing in the 100 meters.
 
 * 👨‍🦰  I'm 20 🎉
 * 🌍  I'm based in Rajkot, India

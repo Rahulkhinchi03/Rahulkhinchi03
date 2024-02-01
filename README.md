@@ -8,9 +8,15 @@
 
  ### About Me 🚀
 
-Hi there! I'm Rahul Khinchi, a Computer Science and Engineering junior with a passion for DevOps, APIs, and Community Management. I have a strong background in open-source development and collaboration, gained through my experience as a Google Summer of Code Mentee automating the release process of [Checkstyle](https://checkstyle.org/).
+ Hello! I'm Rahul Khinchi, a Computer Science and Engineering junior with a fervor for DevOps, APIs, and Community Management. I bring a robust background in open-source development and collaboration, honed during my time as a Google Summer of Code Mentee automating the release process of [Checkstyle](https://checkstyle.org/).
 
-As a Developer Advocate at [Syncloop](https://www.syncloop.com/), I excel in promoting and supporting developer communities. Previously, I served as a Contract Based DevRel at [Pynt.io](https://www.pynt.io/) for the India Region and worked as a Developer Advocate Intern at [Onboardbase](https://onboardbase.com/).
+As a Developer Advocate at [Syncloop](https://www.syncloop.com/),I thrive on promoting and supporting developer communities. Previously, I served as a Contract-Based DevRel at [Pynt.io](https://www.pynt.io/) for the India Region and gained experience as a Developer Advocate Intern at [Onboardbase](https://onboardbase.com/).
+
+### Current Role:
+I am excited to announce that I am now part of the dynamic team at [Treblle](https://treblle.com/), where I continue my journey in the tech world. At Treblle, I contribute to innovative solutions and thrive in fostering developer engagement and advocacy.
+
+Let's connect and explore the boundless possibilities in the world of technology together! 🚀
+
 
 I'm proudly building the DeCodeCafe Community and a GitHub Campus Expert, where I actively foster collaboration and knowledge sharing. In leadership roles as a Beta Microsoft Learn Student Ambassador and Google Developer Students Club Lead, I've driven impactful initiatives and engaged with diverse technical audiences.
 

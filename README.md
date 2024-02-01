@@ -15,12 +15,13 @@ As a Developer Advocate at [Syncloop](https://www.syncloop.com/),I thrive on pro
 ### Current Role:
 I am excited to announce that I am now part of the dynamic team at [Treblle](https://treblle.com/), where I continue my journey in the tech world. At Treblle, I contribute to innovative solutions and thrive in fostering developer engagement and advocacy.
 
-Let's connect and explore the boundless possibilities in the world of technology together! 🚀
 
-
+### Communities
 I'm proudly building the DeCodeCafe Community and a GitHub Campus Expert, where I actively foster collaboration and knowledge sharing. In leadership roles as a Beta Microsoft Learn Student Ambassador and Google Developer Students Club Lead, I've driven impactful initiatives and engaged with diverse technical audiences.
 
 With industry experience as a Technical Writing Intern at GeeksForGeeks and a mentor at ConnectBud, I possess a strong foundation in effective communication and mentorship. I have delivered over 20 technical talks on topics such as API Security, API Development, Git and GitHub, Open Source, Introduction to Codespaces, and Checkstyle. I organized GDSC WoW for Gujarat Region in Ahmedabad, attracting 750+ attendees and delivering a talk on "Shift left approach to API Security Testing with Pynt".
+
+### AFK
 
 In my free time, I draw inspiration from sports, notably CR7, recognizing the parallels between discipline and hard work in athletics and professional life. As a former state-level athlete, I achieved a remarkable 11.27-second timing in the 100 meters.
 

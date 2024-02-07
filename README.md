@@ -13,7 +13,7 @@
 As a Developer Advocate at [Syncloop](https://www.syncloop.com/),I thrive on promoting and supporting developer communities. Previously, I served as a Contract-Based DevRel at [Pynt.io](https://www.pynt.io/) for the India Region and gained experience as a Developer Advocate Intern at [Onboardbase](https://onboardbase.com/).
 
 ### Current Role:
-I am excited to announce that I am now part of the dynamic team at [Treblle](https://treblle.com/), where I continue my journey in the tech world. At Treblle, I contribute to innovative solutions and thrive in fostering developer engagement and advocacy.
+I am excited to announce that I am now part of the dynamic team at [Treblle](https://treblle.com/) (Think of it as Google Analytics for APIs), where I continue my journey in the tech world. At Treblle, I contribute to innovative solutions and thrive in fostering developer engagement and advocacy.
 
 
 ### Communities

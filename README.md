@@ -19,7 +19,7 @@ I am excited to announce that I am now part of the dynamic team at [Treblle](htt
 ### Communities
 I'm proudly building the DeCodeCafe Community and a GitHub Campus Expert, where I actively foster collaboration and knowledge sharing. In leadership roles as a Beta Microsoft Learn Student Ambassador and Google Developer Students Club Lead, I've driven impactful initiatives and engaged with diverse technical audiences.
 
-With industry experience as a Technical Writing Intern at GeeksForGeeks and a mentor at ConnectBud, I possess a strong foundation in effective communication and mentorship. I have delivered over 20 technical talks on topics such as API Security, API Development, Git and GitHub, Open Source, Introduction to Codespaces, and Checkstyle. I organized GDSC WoW for Gujarat Region in Ahmedabad, attracting 750+ attendees and delivering a talk on "Shift left approach to API Security Testing with Pynt".
+With industry experience as a Technical Writing Intern at GeeksForGeeks and a mentor at ConnectBud, I possess a strong foundation in effective communication and mentorship. I have delivered over 20 technical talks on topics such as API Security, API Development, Git and GitHub, Open Source, Introduction to Codespaces, and Checkstyle. I organized GDSC WoW for the Gujarat Region in Ahmedabad, attracting 750+ attendees and delivering a talk on "Shift left approach to API Security Testing with Pynt".
 
 ### AFK
 
@@ -38,8 +38,8 @@ In my free time, I draw inspiration from sports, notably CR7, recognizing the pa
 
  ### My Skills 💻
 
-- **Language:** Java, Go and Python.
-- **DevOps:** Linux, YAML, GitHub Actions & API, Shell Scripting, CI, Docker, Kubernates, Terraform, Ansible, Jenkins.
+- **Language:** Java and Go.
+- **DevOps:** Linux, YAML, GitHub Actions & API, Shell Scripting, CI, Docker, Kubernetes, Terraform, Ansible, Jenkins.
 - **Cloud:** Azure & GCP
 - **Database:** MySQL.
 - **Web Development:** HTML and CSS.
@@ -61,12 +61,7 @@ In my free time, I draw inspiration from sports, notably CR7, recognizing the pa
  - [GFG](https://auth.geeksforgeeks.org/user/rahulkhinchi7/articles)
  - [Dev.to](https://dev.to/rk7)
 
-![open-soure-journey](https://github.com/Rahulkhinchi03/Rahulkhinchi03/assets/71710042/9bea6926-b981-4287-849f-22c844eec966)(https://blog.treblle.com/how-to-start-your-open-source-journey/)
-
-
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=rahhulk7)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![Open Source Journey](https://github.com/Rahulkhinchi03/Rahulkhinchi03/assets/71710042/9bea6926-b981-4287-849f-22c844eec966.png)](https://blog.treblle.com/how-to-start-your-open-source-journey/)
 
 ### Watch my latest podcast at:
 [![Google Summer of Code](https://user-images.githubusercontent.com/71710042/226113213-b892ad05-93f8-44b8-84d8-505550ed6d6c.jpeg)](https://www.youtube.com/live/vcN6oNzUh38?feature=share)

@@ -61,7 +61,8 @@ In my free time, I draw inspiration from sports, notably CR7, recognizing the pa
  - [GFG](https://auth.geeksforgeeks.org/user/rahulkhinchi7/articles)
  - [Dev.to](https://dev.to/rk7)
 
-[![](https://user-images.githubusercontent.com/71710042/236921173-7e62a2b2-e34e-4157-b847-b58890af9d04.png)](https://onboardbase.com/blog/future-secret-management/)
+![open-soure-journey](https://github.com/Rahulkhinchi03/Rahulkhinchi03/assets/71710042/9bea6926-b981-4287-849f-22c844eec966)(https://blog.treblle.com/how-to-start-your-open-source-journey/)
+
 
 
 ## 🐦 Latest Tweet

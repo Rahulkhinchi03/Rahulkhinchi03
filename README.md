@@ -4,8 +4,6 @@
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulkhinchi03&label=Profile%20views&color=0e75b6&style=flat" alt="Rahulkhinchi03" /> </p>
-
  ### About Me 🚀
 
  Hello! I'm Rahul Khinchi, a Computer Science and Engineering graduate with a fervor for DevOps, APIs, and Community Management. I bring a robust background in open-source development and collaboration, honed as a Google Summer of Code Mentee, automating the release process of [Checkstyle](https://checkstyle.org/).

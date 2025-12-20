@@ -46,6 +46,7 @@ I'm currently working at [Treblle](https://treblle.com/) as a **Solutions Engine
 | **Content Creation** | Hosted [product webinars](https://www.youtube.com/playlist?list=PL_Nv-bWadRhYxrOYlLc4au4ZMusRPjoMp) on YouTube, wrote [customer case studies](https://treblle.com/customers), and managed social media presence |
 | **Public Speaking** | Delivered technical talks on API observability at industry meetups and universities |
 | **Developer Outreach** | Conducted proactive outreach to new users through personalized email, ensuring successful platform adoption |
+| **Public Speaking & Education** | Delivered technical talks at [multiple venues](http://surl.li/dumikf), created [Laravel API Course](https://apiacademy.treblle.com/laravel-api-course/intro-and-setup), and led [Product Hunt launch](https://www.producthunt.com/products/treblle) achieving 600+ upvotes |
 
 ---
 
@@ -161,6 +162,20 @@ In my free time, I draw inspiration from sports, notably CR7, recognizing the pa
 [![Open Source Journey](https://github.com/Rahulkhinchi03/Rahulkhinchi03/assets/71710042/9bea6926-b981-4287-849f-22c844eec966.png)](https://blog.treblle.com/how-to-start-your-open-source-journey/)
 
 ### Watch my latest content:
+
+**Technical Talks & Presentations:**
+- [Talk 1](http://surl.li/dumikf) - API Observability presentation
+- [Talk 2](http://surl.li/mbgaoj) - Developer Relations and API best practices
+- [Talk 3](http://surl.li/qmvzqr) - API security and governance
+- [Talk 4](http://surl.li/naxcfq) - Building with APIs
+
+**Product Hunt Launches:**
+- [Treblle V3 Launch](https://www.producthunt.com/products/treblle) - Led strategy resulting in 600+ upvotes
+
+**Educational Content:**
+- [Laravel API Course Documentation](https://apiacademy.treblle.com/laravel-api-course/intro-and-setup) - Designed and documented content for Laravel API course
+
+**Podcasts & Sessions:**
 [![Google Summer of Code](https://user-images.githubusercontent.com/71710042/226113213-b892ad05-93f8-44b8-84d8-505550ed6d6c.jpeg)](https://www.youtube.com/live/vcN6oNzUh38?feature=share)
 [![Contributing to IHR](https://img.youtube.com/vi/30rU1qqUjAY/0.jpg)](https://www.youtube.com/watch?v=30rU1qqUjAY)
 [![Contributing to GNOME](https://img.youtube.com/vi/8eD5l76k1II/0.jpg)](https://www.youtube.com/watch?v=8eD5l76k1II)

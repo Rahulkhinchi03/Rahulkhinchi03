@@ -94,7 +94,7 @@ I'm currently working at [Treblle](https://treblle.com/) as a **Solutions Engine
 - [Onboarding Checklist](https://docs.treblle.com/getting-started/onboarding-checklist) - Enterprise customer setup guide
 - [API Knowledge Base](https://treblle.com/knowledgebase) - Comprehensive API learning resources
 - 15 Use Case Tutorials covering debugging, compliance, performance, security
-- 5 Workflow Guides for common API management scenarios
+- 5 [Workflow Guides](https://docs.treblle.com/workflow-tutorials/compliance) for common API management scenarios
 
 ### Developer Tools I've Built
 - [AI API Starter Kits](https://github.com/Treblle/ai-api-starter-kits) - Production-ready API integration templates
@@ -136,19 +136,6 @@ I'm proudly building the **DeCodeCafe Community** and serve as a **GitHub Campus
 
 ---
 
-### AFK
-
-In my free time, I draw inspiration from sports, notably CR7, recognizing the parallels between discipline and hard work in athletics and professional life. As a former state-level athlete, I achieved a remarkable 11.27-second timing in the 100 meters.
-
-* 👨‍🦰  I'm 23 🎉
-* 🌍  I'm based in Ahmedabad, India
-* ✉️  You can contact me at [rahulkhinchirk7@gmail.com](mailto:rahulkhinchirk7@gmail.com) or [Link](https://bento.me/rahulk7)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulkhinchi03/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rahhulk7) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahhul.ig)
-
 ### Track My Open Source Contribution 🚀:
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle/pulls?q=is%3Amerged+is%3Apr+author%3ARahulkhinchi03+)
 - [checkstyle/contribution](https://github.com/checkstyle/contribution/pulls?q=is%3Amerged+is%3Apr+author%3ARahulkhinchi03+)
@@ -169,6 +156,21 @@ In my free time, I draw inspiration from sports, notably CR7, recognizing the pa
 
 **Product Hunt Launches:**
 - [Treblle V3 Launch](https://www.producthunt.com/products/treblle) - Led strategy resulting in 600+ upvotes
+
+---
+
+### AFK
+
+In my free time, I draw inspiration from sports, notably CR7, recognizing the parallels between discipline and hard work in athletics and professional life. As a former state-level athlete, I achieved a remarkable 11.27-second timing in the 100 meters.
+
+* 👨‍🦰  I'm 23 🎉
+* 🌍  I'm based in Ahmedabad, India
+* ✉️  You can contact me at [rahulkhinchirk7@gmail.com](mailto:rahulkhinchirk7@gmail.com) or [Link](https://bento.me/rahulk7)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulkhinchi03/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rahhulk7) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahhul.ig)
 
 <h3 align="left"> Github Stats: </h3>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rahulkhinchi03&show_icons=true&theme=tokyonight" />

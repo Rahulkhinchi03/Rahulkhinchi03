@@ -174,4 +174,3 @@ In my free time, I draw inspiration from sports, notably CR7, recognizing the pa
 
 <h3 align="left"> Github Stats: </h3>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rahulkhinchi03&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulkhinchi03&theme=tokyonight" />

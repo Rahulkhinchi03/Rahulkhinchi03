@@ -171,6 +171,3 @@ In my free time, I draw inspiration from sports, notably CR7, recognizing the pa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulkhinchi03/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rahhulk7) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahhul.ig)
-
-<h3 align="left"> Github Stats: </h3>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rahulkhinchi03&show_icons=true&theme=tokyonight" />
